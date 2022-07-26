@@ -1,0 +1,127 @@
+/*
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #16161d;
+}
+
+btn-alterar{
+    align-items: center;
+    display: flex;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color: blue;
+    color: #fff;
+    border: 1px outset #ccc;
+}
+
+button:hover{
+    background-color: #050;
+    box-shadow: 5px 5px 10px #aaa;
+}
+
+
+
+.container{
+    margin: 20px,50px;
+}
+
+.container form {
+ display: flex;
+ justify-content: center;
+}
+
+.container form div {
+    padding: 15px 30;  
+   
+
+}
+
+.container from div:not(:last-child){
+    padding: 15px 30px;
+    border-right: 1px inset #aaaa;
+}
+
+#tamanho-texto {
+    width: 40px;
+}*/
+
+
+
+/*.corFundo{
+  background-color: aqua;
+}*/
+
+
+#result1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #16161d;
+}
+
+hr{
+    border-color: lightslategray;
+    line-height: 1px;
+}
+
+.container_1{
+    background-color: rgb(231, 226, 226);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10;
+    font-weight: 400;
+    --padding: 2px;
+    --margin: 30px;
+}
+
+.container_2{
+    background-color: rgb(231, 226, 226);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10;
+    font-weight: 400;
+}
+.barra {
+    border: 0;
+    border-top: 1px solid #CCC;
+  }
+
+.barra_2 {
+    border: 0;
+    border-top: 1px dashed #CCC;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color: rgba(150, 146, 156, 0.973);
+    color: #fff;
+    border: 1px outset #ccc;
+}
+
+
+button:hover{
+    background-color: #050;
+    box-shadow: 5px 5px 10px #aaa;
+}
+
+#nome{
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+/* .textaera
+{
+    max-height:300px;
+} */
